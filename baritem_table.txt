@@ -1,0 +1,16 @@
+
+|-------------------------------------------------------------------------------------------------------------|
+|   Refno    |  Category    |    Type     |   Name     |   origin    |    Availability   |  price(one bottle) |   
+|-------------------------------------------------------------------------------------------------------------|                
+|   1002        Alcohol        cocktail      Margarita     England          Yes                 Rs.2550       |
+|   1003        Alcohol        cocktail     Moscow mule    Russia           Yes                 Rs.4320       |
+|   1004        Alcohol        cocktail     comsopoliton   England          Yes                 Rs.6850       |                           
+|   1005        Alcohol          Wines       red wines     Germany          Yes                 Rs.1590       |
+|   1006        Alcohol          Wines      white wines    Germany          Yes                 Rs.3100       |
+|   1007        Alcohol         spirits        vodka       England          Yes                 Rs.3500       |                           
+|   1008        Alcohol         spirits       tequila      England          Yes                 RS.4700       | 
+|   1009        Alcohol         spirits       whiskey      England          Yes                 Rs.5900       |  
+|   1010      Non-Alcohol        soda          lemon      Australia         Yes                 Rs.600        |
+|   1011      Non-Alcohol      Iced tea       iced tea     Srilanka         Yes                 Rs.450        |
+|-------------------------------------------------------------------------------------------------------------|
+
